@@ -6,3 +6,4 @@ Aula prática de GITHUB 31/03/2026
 - Hadrian
 - João Victor
 - João Rocha
+- Jorge
